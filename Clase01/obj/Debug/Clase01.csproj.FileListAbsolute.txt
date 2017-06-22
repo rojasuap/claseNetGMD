@@ -1,0 +1,2 @@
+D:\net\Pedro Rojas Enciso\curso .net\clase01\Clase01\Clase01\bin\Debug\Clase01.exe.config
+D:\net\Pedro_Rojas_Enciso\curso_net\claseGMD\Clase01\Clase01\bin\Debug\Clase01.exe.config
